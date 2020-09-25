@@ -10754,7 +10754,7 @@ Database.addText("en.mapATreeTicTacToeNobodyWins", "The board is filled entirely
 Database.addText("en.mapATreeTicTacToeYouLose", "I got three in a row! I won. Do you want to try again?");
 Database.addText("en.mapATreeTicTacToeTryAgainButton", "Yes I do!"); Database.addText("en.mapATreeTicTacToeYouWin", "Wow, that's an unexpected move. But you got three in a row, I can't argue. You won! Take this key! It opens one of the houses in the village below the forest.");
 Database.addText("en.mapATreeTicTacToeAnymoreSweet", "Thanks, squirrel! Any more challenge?");
-Database.addText("en.mapATreeNoMoreChallenge", "Sadly no, I have no more challenge for you... Perhaps, you want answers. Use the word 'Faith', but not in this world. You shall not be here anymore, however, stay there as you wish. Thanks for the games, bye!");
+Database.addText("en.mapATreeNoMoreChallenge", "Sadly no, I have no more challenge for you... Perhaps, you want answers. Use the word 'Faith', it is the second part of password not from this world. You shall not be here anymore, however, stay there as you wish. Thanks for the games, bye!");
 Database.addText("en.buttonExitQuestKeeping", "Exit the quest (and keep what you found)");
 Database.addText("en.buttonExitQuestNoKeeping", "Exit the quest (you won't keep what you found)");
 Database.addText("en.buttonExitQuestNoKeepingBecauseLose", "Exit the quest (you won't keep what you found because you failed)");
@@ -12534,7 +12534,7 @@ Database.addText("ru.mapATreeTicTacToeNobodyWins", "Игровое поле за
 Database.addText("ru.mapATreeTicTacToeYouLose", "Я поставила три знака в ряд! Я выиграла. Хочешь попробовать снова?");
 Database.addText("ru.mapATreeTicTacToeTryAgainButton", "Да, хочу"); Database.addText("ru.mapATreeTicTacToeYouWin", "Ух, неожиданный ход. Но у тебя три в ряд, я не могу это оспорить. Ты выиграл! Держи ключ, он открывает один из закрытых домов в деревне возле леса.");
 Database.addText("ru.mapATreeTicTacToeAnymoreSweet", "Спасибо, белочка. Ещё игры есть?");
-Database.addText("ru.mapATreeNoMoreChallenge", "К сожалению, больше игр для тебя не осталось. Возможно, ты хочешь ответов. Используй слово 'Faith', но не в этом мире. Тебя не должно быть тут, но оставайся сколько хочешь. Было очень весело играть с тобой, спасибо!");
+Database.addText("ru.mapATreeNoMoreChallenge", "К сожалению, больше игр для тебя не осталось. Возможно, ты хочешь ответов. Используй слово 'Faith', это вторая часть пароля не из этого мира. Тебя не должно быть тут, но оставайся сколько хочешь. Было очень весело играть с тобой, спасибо!");
 Database.addText("ru.buttonExitQuestKeeping", "Покинуть квест (и получить то, что Вы нашли)");
 Database.addText("ru.buttonExitQuestNoKeeping", "Покинуть квест (Вы не получите то, что нашли)");
 Database.addText("ru.buttonExitQuestNoKeepingBecauseLose", "Покинуть квест (Вы не получите то, что нашли, потому что вы проиграли)");
